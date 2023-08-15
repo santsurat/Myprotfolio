@@ -70,6 +70,8 @@ function mouseFollower(xscale, yscale) {
       "#minicircle"
     ).style.transform = `translate(${dets.clientX}px, ${dets.clientY}px) scale(${xscale}, ${yscale})`;
   });
+
+  
 }
 
 mouseFollower();
@@ -102,3 +104,4 @@ document.querySelectorAll(".elem").forEach(function (elem) {
     });
   });
 });
+
