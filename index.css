@@ -13,7 +13,7 @@
     }
 
     /* Adjust other elements as needed */
-
+}
 
 html, body {
     width:100%;
@@ -258,5 +258,4 @@ html, body {
 #footerright{
     display: flex;
     gap: 20px;
-}
 }
